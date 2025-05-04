@@ -1,23 +1,23 @@
 //base by HANSTZ
 //YouTube: @HANSTZ-TECH
-//Whatsapp https://wa.me/255756530143
+//Whatsapp https://wa.me/256779008997
 //GitHub: @Mrhanstz
 //WhatsApp: https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
 //want more free bot scripts? follow my channel : https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
 const fs = require('fs')
 const chalk = require('chalk')
 //contact details
-global.ownernomer = "255756530143"
+global.ownernomer = "256779008997"
 global.ownername = "HANSTZ"
 global.ytname = "HANSTZ-TECH"
 global.socialm = "GitHub: Mrhanstz"
 global.location = "AFRICA, TANZANIA, DODOMA"
-global.ownernumber = '255756530143'  //creator number
-global.ownername = 'HANSTZ' //owner name
-global.botname = 'HANS-XMD' //name of the bot
+global.ownernumber = '256779008997'  //creator number
+global.ownername = 'Dian' //owner name
+global.botname = 'Gabriel' //name of the bot
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'HANS-XMD'
+global.author = 'Dian'
 //console view/theme
 global.themeemoji = '⚠️'
 global.wm = "HANS BOT"
@@ -46,7 +46,7 @@ global.mess = {
     prem: 'This feature can be used by premium user only',
     admin: 'This feature can be used by admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by owner only',
+    owner: 'This feature can be used by owner Dian only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
     wait: 'In process... ',    
